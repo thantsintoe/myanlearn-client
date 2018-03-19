@@ -4,13 +4,13 @@ MyanLearn Pre-interview Coding Assignment
 Please visit https://myanlearn-client.herokuapp.com/ to test the app.
 
 This SPA (Single Page Application ) is built using:
-    • Node.js
-    • MongoDB
-    • React.js
-    • Redux (for state management)
-    • Redux Form
-    • React-Router (V3)
-    • Bootstrap 4
+* Node.js
+* MongoDB
+* React.js
+* Redux (for state management)
+* Redux Form
+* React-Router (V3)
+* Bootstrap 4
 
 This app has 3 main UIs which are Register, Login and Tweets.
 
