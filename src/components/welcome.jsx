@@ -7,7 +7,7 @@ let Welcome = () => (
                 <hr className="my-4"></hr>
                 <p>Pre-interview Coding Assignment Created By</p>
                 <p className="lead">Thant Sin Toe</p>
-                <p>View Source Code on <a href="https://www.github.com/thantsintoe">GitHub</a></p>
+                <p>View Source Code on <a href="https://github.com/thantsintoe?tab=repositories">GitHub</a></p>
 
             </div>
         )
