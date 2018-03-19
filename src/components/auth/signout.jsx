@@ -13,7 +13,7 @@ class Signout extends Component {
         return (
             <div id="welcome-page">
                 <h1 className="display-4">Goodbye...hope to work <strong>Together</strong></h1>
-                <p>View Source Code on <a href="#">GitHub</a></p>
+                <p>View Source Code on <a href="https://github.com/thantsintoe?tab=repositories">GitHub</a></p>
 
             </div>
         )
