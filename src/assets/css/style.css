@@ -1,0 +1,86 @@
+#root {
+    background:#e6e9ee;
+    min-height: 100vh;
+    margin: 0px;
+}
+.navbar-expand-lg {
+    box-shadow: 0px 2px 8px 2px silver;
+}
+#welcome-page {
+    text-align: center;
+    background:#e6e9ee;
+    padding-top: 100px;
+    padding-left: 10rem;
+    padding-right: 10rem;
+}
+
+.form-container {   
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.form-container > h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-container button {
+    width: 100%;
+    height: 50px;;
+}
+
+#feature-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    
+}
+
+#feature-container > h3 {
+    margin: 40px 0px;
+    text-align: center;
+}
+.media {
+    padding: 20px;
+    margin: 20px auto;
+    border-radius: 5px;
+    box-shadow: 0px 0.5px 22px 0px #c9c9c9;
+    background: #fff;
+    width: 60%;
+}
+.media > img {
+    border-radius: 200px;
+    border: 3px solid #e1e1e0;
+}
+
+@media only screen and (max-width : 900px) {
+    html {
+        font-size: 14px;
+    }
+
+    .form-container {   
+        width: 50%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+}
+
+@media only screen and (max-width : 600px) {
+    html {
+        font-size: 11px;
+    }
+
+    .form-container {   
+        width: 80%;
+        margin: 0 auto;
+        margin-top: 30px;
+    }
+
+    .form-container button {
+        height: 40px;
+    }
+
+    .media {
+        width: 80%;
+    }
+}
