@@ -1,7 +1,7 @@
 MyanLearn Pre-interview Coding Assignment
 =========================================
 
-Please visit https://myanlearn-client.herokuapp.com/ to test the app.
+Please visit https://myanlearn-client.herokuapp.com/ to test the app. It may be slow on first load because it is hosted on free cloud server.
 
 This SPA (Single Page Application ) is built using:
 * Node.js
