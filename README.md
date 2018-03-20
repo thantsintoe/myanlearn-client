@@ -1,5 +1,5 @@
-MyanLearn Pre-interview Coding Assignment
-=========================================
+Authentication with Node, React & Redux
+=======================================
 
 Please visit https://myanlearn-client.herokuapp.com/ to test the app. It may be slow on first load because it is hosted on free cloud server.
 
