@@ -1,7 +1,7 @@
 Authentication with Node, React & Redux
 =======================================
 
-Please visit https://thantsintoe-auth.herokuapp.com/ to test the app. It may be slow on first load because it is hosted on free cloud server.
+Please visit http://thantsintoe.openode.io/ to test the app. It may be slow on first load because it is hosted on free cloud server.
 
 This SPA (Single Page Application ) is built using:
 * Node.js
